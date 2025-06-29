@@ -1,0 +1,16 @@
+__pycache__/
+.DS_Store
+*.js
+*.csv
+*.xlsx
+.vscode
+.env
+*.db
+.pytest_cache
+htmlcov
+.coverage
+poetry.lock
+node_modules/
+package-lock.json
+.serverless
+.python-version
